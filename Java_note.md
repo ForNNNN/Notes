@@ -1251,5 +1251,3 @@ parent
   Dog can swim
   dog
   ```
-  
-  ssss
